@@ -1,5 +1,5 @@
 # csgo_admin_page
-A php based web front end to manage a Counter Strike Global Offensive server. We used this for internal games of Counter Strike GO at my company. People wanted to change the map or game time, but were unwilling or unable to RCON into the server and run the neccessary admin commands. We wanted a quick and easy front end to perform the most common admin tasks, so I created this tool.
+A php based web front end to manage a Counter Strike Global Offensive server. We used this for internal games of Counter Strike GO at my company. People wanted to change the map or game type, but were unwilling or unable to RCON into the server and run the neccessary admin commands. We wanted a quick and easy front end to perform the most common admin tasks, so I created this tool.
 
 Functions:
 
